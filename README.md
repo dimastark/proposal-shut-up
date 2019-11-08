@@ -17,7 +17,7 @@ Best practices from Vanilla ES:
 
 And that's really beautiful...
 
-Why not generalize this practices and silence all these useless errors? Just use "shut-up" operator `@`.
+Why not generalize this practices and silence all these annoying errors? Just use "shut-up" operator `@`.
 
 ## Usage examples
 
